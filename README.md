@@ -18,6 +18,6 @@ This Power BI project presents an interactive dashboard that provides insights i
       A table displaying policy and age group-wise revenue.
       Charts for age group-wise customers, city-wise customers, and mode-wise customers.
 ## Features
-      -- Dynamic Slicers: Allow real-time filtering based on month, age group, city, and sales mode.
-      -- Interactive Visuals: All KPIs, charts, and tables update dynamically when slicers are adjusted.
-      -- Comprehensive Insights: Helps businesses analyze revenue trends, customer segmentation, and sales distribution effectively.
+       Dynamic Slicers: Allow real-time filtering based on month, age group, city, and sales mode.
+       Interactive Visuals: All KPIs, charts, and tables update dynamically when slicers are adjusted.
+       Comprehensive Insights: Helps businesses analyze revenue trends, customer segmentation, and sales distribution effectively.
