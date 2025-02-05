@@ -3,6 +3,9 @@
 View Dashboard
 You can view the published Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/8e777c1f-31e4-4274-a8be-af5829545972/2bac7f12540074343389?experience=power-bi)
 
+Audio Presentation:
+This is the audio presentation link. [Click Here](https://youtu.be/TI6XY232Mi4)
+
 ## Overview
 This Power BI project presents an interactive dashboard that provides insights into revenue, customer distribution, and sales trends. The dashboard is divided into three key sections:
   1. Overview – Displays key performance indicators (KPIs) such as total revenue, total customers, daily revenue growth, and daily customer growth. It also includes:
