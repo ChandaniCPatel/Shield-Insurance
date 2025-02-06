@@ -1,7 +1,7 @@
 # Power BI Dashboard Analysis
 
 View Dashboard
-You can view the published Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/8e777c1f-31e4-4274-a8be-af5829545972/2bac7f12540074343389?experience=power-bi)
+You can view the published Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjJhMjdiMDEtNWY5My00MmYyLWExNzEtMmQzYmIwYjQ0NjM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Audio Presentation:
 This is the audio presentation link. [Click Here](https://youtu.be/TI6XY232Mi4)
